@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfJhKI78g60CnjBiqvV6odwAAAAACAAAAAAAQZgAAAAEAACAAAAA7WDo4BC644BYHEERYJs6SAYe3YqikdTw2UTo7Yq2ATwAAAAAOgAAAAAIAACAAAABIYIA1D7Fw49X7aybVTMAOMGUqrQJ/4Xy/LDinNYNwBCAAAAAF7a5B6nwpULZ0QMjnI871Ne0Fi1As3VNfko69cBzs7kAAAACmA4d0uutH+hYSCMC5+gVKKwXDwuFO7+fxcoT2CcWFq4DIVk3bQssp0Hljb+cSOe/1qaft0Zi6MjgHjQxb2xss</EncryptedPassword>
+    <History>False|2024-05-09T11:37:16.3969928Z;False|2024-05-09T14:35:34.7404096+03:00;False|2024-05-09T14:29:25.8948155+03:00;False|2024-05-08T20:44:18.5681145+03:00;False|2024-05-08T20:35:21.9723581+03:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://198.37.116.42/www.SAKANv2.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/08/2024 12:18:51</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/08/2024 20:35:55</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>01/16/2023 17:41:56</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>04/09/2023 07:58:02</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>10/19/2021 13:53:34</publishTime>
+    </File>
+    <File Include="libman.json">
+      <publishTime>02/14/2024 13:18:15</publishTime>
+    </File>
+    <File Include="MailKit.dll">
+      <publishTime>03/26/2022 17:44:18</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>04/16/2022 00:20:18</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.Internal.dll">
+      <publishTime>04/16/2022 00:16:36</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.KeyDerivation.dll">
+      <publishTime>04/16/2022 00:18:38</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>04/16/2022 00:20:14</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.UI.Views.V4.dll">
+      <publishTime>04/16/2022 00:21:40</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/26/2020 01:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>04/13/2022 00:29:32</publishTime>
+    </File>
+  </ItemGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=SAKANv2.mssql.somee.com%3bpacket size=4096%3buser id=Asmaa___SQLLogin_1%3bpwd=aqut5lxali%3bdata source=SAKANv2.mssql.somee.com%3bpersist security info=False%3binitial catalog=SAKANv2%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
